@@ -1,4 +1,4 @@
-#in this program, the user will enter their birthdate, and learn what their zodiac sign is
+#in this function, the user will enter their birthdate, and learn what their zodiac sign is
 
 def calculatezodiac():
     #get zodiac input
@@ -79,4 +79,3 @@ def calculatezodiac():
     else:
         print("Date entered incorrectly")
 
-calculatezodiac()
